@@ -1,0 +1,22 @@
+20230609	16:10:48	e898cbeb-aadc-42fb-a840-4122ccba5dba	SyntaxError: Unexpected end of JSON input
+20230609	16:15:30	3b9c131b-b99f-43f7-b844-beafbe66ab1c	Error: Cannot set headers after they are sent to the client
+20230609	16:15:47	e0d47535-e819-4a59-a820-620208d102f3	Error: Cannot set headers after they are sent to the client
+20230609	16:16:02	19367a62-57ab-4b27-9c1d-5ba49a67d5c4	Error: Cannot set headers after they are sent to the client
+20230610	18:56:36	6eb119dd-bc6d-4f98-a9ec-369b7b79233a	TypeError: Cannot read properties of undefined (reading 'map')
+20230610	19:02:02	0ab11bf1-e16d-4dbf-affa-3055d7a05dd0	TypeError: roles.map is not a function
+20230610	19:12:20	a67f0692-35ea-4a4d-897c-a78c56afe586	ReferenceError: object is not defined
+20230610	19:12:47	816318da-785d-44c7-a799-0c6f311300fa	TypeError: Cannot read properties of undefined (reading 'forEach')
+20230610	19:13:58	4cd69e42-ddf0-4ae8-a179-6447d9903a9f	TypeError: Cannot read properties of undefined (reading 'include')
+20230610	19:14:16	d02ec0ed-3fb7-4491-9125-5559f96b6c48	TypeError: rolevalues.include is not a function
+20230610	19:17:04	97d78102-88f6-4496-ae71-81b325a949f1	TypeError: Cannot read properties of undefined (reading 'include')
+20230610	19:18:52	7dcc85e9-c832-4963-92c4-c8a23fd413cf	TypeError: Cannot read properties of undefined (reading 'includes')
+20230610	19:21:37	31017d35-a8c0-4f83-ac67-5fbfe4c50dfe	TypeError: Cannot read properties of undefined (reading 'find')
+20230610	19:22:18	bfcaca01-41e5-4fd1-a41a-a095376d9a53	TypeError: Cannot read properties of undefined (reading 'find')
+20230610	19:23:16	ada0568a-c230-4807-aaa1-fe9eb75f8cbc	TypeError: Cannot read properties of undefined (reading 'find')
+20230610	19:30:56	5d88e7fe-8030-48a1-ba46-11722cd0dc46	TypeError: results.find is not a function
+20230610	19:31:26	230fd5c2-bbf3-4d13-a760-386f4f4593fc	TypeError: results.includes is not a function
+20230610	19:32:14	0276c13e-1309-4370-bacd-7521d6f7afdb	TypeError: results.some is not a function
+20230610	19:33:01	fdfeac8a-d9f1-421f-afc1-e4cff4e27c0d	TypeError: rolevalues.some is not a function or its return value is not iterable
+20230610	19:35:17	047bb068-4477-4e25-ba89-28f1fda4ed47	Error: Cannot set headers after they are sent to the client
+20230610	19:36:28	3fa6aabe-0b19-4cc3-a702-69dc4e65d8ce	TypeError: Cannot convert undefined or null to object
+20230610	19:46:51	35787474-abb3-45f6-8212-b1c3e0296cf8	TypeError: Cannot convert undefined or null to object
